@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on Full Stack Web Development<br>I'm a Computer Science and Engineering (CSE) student with a <br>deep passion for the world of computer science
+Computer Science Engineer | Full Stack Web Developer | Backend Developer | Data Engineer
+
+Passionate about building scalable web applications and data-driven solutions. I enjoy working across the tech stack and leveraging my backend expertise to design robust systems that solve real-world problems.
 
 
 ## 🌐 Socials:
